@@ -1,2 +1,2 @@
-# Leetcode-QnA
+# Leetcode QnA
 Adding my solutions for leetcode DSA for documentation purposes...
