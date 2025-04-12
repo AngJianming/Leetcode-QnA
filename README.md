@@ -18,7 +18,7 @@ I started this repository to:
 
 ## 🛠 Tech Stack
 
-- **Language**: Mainly `Python`, but I occasionally solve problems in `JavaScript`, `Java`, or `C++` depending on the challenge.
+- **Language**: Mainly `Python`, but I occasionally solve problems in `JavaScript`, `Java`, `C++` or `C` depending on the challenge.
 - **Platform**: [LeetCode Profile](https://leetcode.com/u/AngJM/)
 - **Editor**: VS Code / LeetCode Extension / LeetSync
 
