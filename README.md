@@ -18,14 +18,20 @@ I started this repository to:
 
 ## 🛠 Tech Stack
 
-- **Language**: Mainly `Python`, but I occasionally solve problems in `JavaScript`, `Java`, `C++` or `C` depending on the challenge.
+- **Language**: Mainly `Python`, but I occasionally solve problems in `JavaScript`, `Java`, `Go`, `Rust`, `C++` or `C` depending on the challenge.
 - **Platform**: [LeetCode Profile](https://leetcode.com/u/AngJM/)
-- **Editor**: VS Code / LeetCode Extension / LeetSync
+- **Editor**: VS Code / LeetCode Extension
 
 ---
 
 ## Each file includes
 ✅ Problem link
+
+🔥 Difficulty ranging from: <br>
+<img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' />
+<img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' />
+<img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' />
+
 
 ❓ Problem question
 
@@ -36,4 +42,5 @@ I started this repository to:
 ⌛ Time and Space Complexity
 
 📝 Final Code
+
 
