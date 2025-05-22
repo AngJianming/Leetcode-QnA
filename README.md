@@ -1,4 +1,4 @@
-# 🧠 LeetCode Challenge QnA by [AngJianming]
+# 🧠 LeetCode Challenge QnA by AngJianming
 
 Welcome to my personal LeetCode Challenge QnA repository! 🚀  
 This repo serves as a growing collection of my solutions, explanations, and thought processes while tackling algorithm and data structure problems on LeetCode.
