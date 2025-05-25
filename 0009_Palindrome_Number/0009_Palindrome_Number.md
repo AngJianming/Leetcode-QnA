@@ -1,6 +1,8 @@
-[9] Palindrome Number  
+# 9. Palindrome Number  
 
 https://leetcode.com/problems/palindrome-number/description/
+
+<img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' />
 
 * algorithms
 * Easy (59.07%)

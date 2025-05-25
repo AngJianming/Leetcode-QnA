@@ -27,11 +27,11 @@ I started this repository to:
 ## Each file includes
 ✅ Problem link
 
-🔥 Difficulty ranging from: <br>
-<img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' />
-<img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' />
-<img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' />
-
+🔥 Difficulty ranging from: <div>
+<img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /> <!-- Easy -->
+<img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /> <!-- Mid -->
+<img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /> <!-- Hard -->
+</div>
 
 ❓ Problem question
 
@@ -44,3 +44,34 @@ I started this repository to:
 📝 Final Code
 
 
+## How I make those README.md files with Leetcode Questions
+
+```bash
+npm install -g leetcode-cli
+```
+
+<div align="justify">
+Install the nesasary dependencies for leetcode
+</div>
+
+<br>
+
+```bash
+leetcode user -l
+```
+
+<div align="justify">
+This is to login via cli, it should then asked you to login to your leetcode username and password
+</div>
+
+[leetcode-cli](https://github.com/skygragon/leetcode-cli)
+
+<br>
+
+```bash
+leetcode show 1016 -g -l <your lang> >
+```
+
+<div align="justify">
+I personally code using WSL Ubuntu 24.04 but you can use Windows or Mac as well just translate it to your terminal lang. But basically, this helps you to <b>scrape</b> the information and create a markdown format based on your LeetCode questions.
+</div>
