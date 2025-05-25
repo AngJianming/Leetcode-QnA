@@ -23,5 +23,6 @@ func isPalindrome(x int) bool {
 	// For even digit length: x == reversed
 	// For odd digit length: x == reversed/10 (middle digit doesn't matter)
 	return x == reversed || x == reversed/10
+	
 }
 
